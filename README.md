@@ -1,2 +1,4 @@
 # DS
-For Data Science Project
+For Data Science Projects
+
+Examples of data visualization methods
