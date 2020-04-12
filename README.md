@@ -1,4 +1,4 @@
 # DS
 For Data Science Projects
 
-Examples of data visualization methods
+Examples of data Science methods, libraries, visualization
