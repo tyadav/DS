@@ -1,6 +1,6 @@
 # This is program is only for reference for various plotting methods
 
-# Standard Libraries 
+# Import Standard Libraries 
 import numpy as np
 import pandas as pd
 from numpy.random import randn
