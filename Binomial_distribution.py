@@ -2,7 +2,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Load the Penguins dataset from seaborn
+#Load the Penguins dataset from seaborn
 penguins = sns.load_dataset('penguins')
 
 # Create a binomial variable for 'species'
