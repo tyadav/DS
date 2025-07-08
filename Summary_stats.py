@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-# Set the seed
+#Set the seed
 np.random.seed(0)
 
 # Define the size of the dataset
